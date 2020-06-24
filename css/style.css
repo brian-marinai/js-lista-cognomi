@@ -1,0 +1,9 @@
+body{
+  padding: 2%;
+}
+#lista{
+  list-style: none;
+}
+#lista li{
+  padding-top: 15px;
+}
